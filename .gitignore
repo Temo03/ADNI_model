@@ -12,7 +12,7 @@ grouped-images-test-nii/
 *.jpg
 *.jpeg
 *.csv
-*.md
+# *.md
 *.nii
 # Environment files
 venv/
